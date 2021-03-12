@@ -1,6 +1,6 @@
-# *Basic Calculator* #
+# *Basic Algebraic Calculator* #
 
-**Basic Calculator** is an android app that allows user to calculate basic algeabric expressions.
+**Basic Algebraic Calculator** is an Windows form application that allows user to calculate basic algebraic expressions. Users can do basic addition, multiplication, division, and subtraction. 
 
 ## Video Walkthrough
 
