@@ -1,4 +1,6 @@
-﻿namespace test
+﻿using System;
+
+namespace test
 {
     partial class SimpleCalculator
     {
@@ -342,12 +344,20 @@
             this.Controls.Add(this.button0);
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(524, 414);
+            this.MinimumSize = new System.Drawing.Size(524, 414);
             this.Name = "SimpleCalculator";
             this.Text = "Calculator";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
