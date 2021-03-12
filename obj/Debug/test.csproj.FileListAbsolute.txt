@@ -1,0 +1,20 @@
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\bin\Debug\test.exe.config
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\bin\Debug\test.exe
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\bin\Debug\test.pdb
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.exe
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.pdb
+C:\Users\antho\Desktop\FALL 2020\Advanced Windows Programming\test\test\obj\Debug\test.SimpleCalculator.resources
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\bin\Debug\test.exe.config
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\bin\Debug\test.exe
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\bin\Debug\test.pdb
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.SimpleCalculator.resources
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.exe
+C:\Users\antho\Desktop\Advanced Windows Programming\test\test\obj\Debug\test.pdb
